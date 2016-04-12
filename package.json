@@ -1,0 +1,26 @@
+{
+  "name": "eater-dot-reporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/eater-dot-reporter.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosuke-furukawa/eater-colorful-reporter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosuke-furukawa/eater-colorful-reporter/issues"
+  },
+  "homepage": "https://github.com/yosuke-furukawa/eater-colorful-reporter#readme",
+  "dependencies": {
+    "colo": "^0.3.2",
+    "eater": "^1.1.0",
+    "pretty-error": "^2.0.0",
+    "progress": "^1.1.8"
+  }
+}
